@@ -1,0 +1,16 @@
+html{
+    margin: 3%;
+}
+html, body{
+    text-align: center;
+    background-color: #FAC079;
+}
+
+#princ, table{
+    width: 100%;
+    max-width: 1000px;
+}
+
+th, td{
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+html{
+    margin: 3%;
+}
+html, body{
+    text-align: center;
+    background-color: #FAC079;
+}
+
+table{
+    width: 100%;
+    max-width: 1000px;
+    background-color: white;
+}
+
+th, td{
+    text-align: center;
+}
+
+a{
+    color: black;
+    font-size: 120%;
+}
+
+.form-group.col-6{
+    display: block;
+}
+
+.form-control{
+    padding-right: 60%;
+}
